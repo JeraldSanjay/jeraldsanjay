@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jerald Sanjay!
+### 🚀 Engineering Student | 💻 Aspiring Developer | 🎯 Lifelong Learner
 
-<!--
-**JeraldSanjay/jeraldsanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student passionate about software development, AI, and cloud technologies. I love building real-world projects and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: AI mini-projects & web apps
+- 🌱 I’m currently learning: Data Structures, Web Dev, and ML
+- 💼 Open to: Internships and collaborations
+- ✨ Fun fact: I use `printf` more than `print`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack:
+`Java` `Python` `HTML` `CSS` `JavaScript`  
+`C` `MySQL` `Git` `GitHub`
+
+## 📈 GitHub Stats:
+![Jerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeraldsanjay&show_icons=true&theme=radical)
+
+## 📫 Connect with me:
+- ✉️ [jeraldsanjay71@gmail.com]
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jerald-sanjay-a-8b9043290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+  > 💬 *“Code. Create. Collaborate. Keep leveling up.”*
