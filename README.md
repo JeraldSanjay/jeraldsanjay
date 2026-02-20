@@ -16,7 +16,7 @@ I'm an engineering student passionate about software development, AI, and cloud 
 ![Jerald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeraldsanjay&show_icons=true&theme=radical)
 
 ## 📫 Connect with me:
-- ✉️ [jeraldsanjay71@gmail.com]
+- ✉️ [jeraldsanjay2006@gmail.com]
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jerald-sanjay-a-8b9043290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
